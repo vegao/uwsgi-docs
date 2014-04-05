@@ -1,4 +1,4 @@
-Quickstart for Python/WSGI applications
+Python/WSGIアプリケーションクイックスタート
 =======================================
 
 This quickstart will show you how to deploy simple WSGI applications and common web frameworks.
