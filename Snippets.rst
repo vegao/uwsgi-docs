@@ -1,4 +1,4 @@
-Snippets
+スニペット
 ========
 
 This is a collection of the most "funny" uses of uWSGI features
