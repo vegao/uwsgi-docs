@@ -1,4 +1,4 @@
-Installing uWSGI
+uWSGIのインストール
 ================
 
 Installing from a distribution package
